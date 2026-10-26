@@ -1,16 +1,105 @@
-# React + Vite
+# Golestan Tea Website 🍃
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive tea brand website inspired by **Golestan Tea**, built with React, HTML, CSS, and Tailwind CSS.
 
-Currently, two official plugins are available:
+This project focuses on recreating the brand's visual identity through a clean user interface, structured components, and responsive web design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Responsive layout for different screen sizes
+- Component-based architecture using React
+- Utility-first styling with Tailwind CSS
+- Custom styling with CSS
+- Clean and organized user interface
+- Brand-inspired visual design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+- **React** — Building reusable UI components
+- **HTML5** — Structuring web content
+- **CSS3** — Custom styling and layout
+- **Tailwind CSS** — Utility-first styling
+- **JavaScript** — Interactive frontend functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- npm
+
+### Installation
+
+## 🚀 Getting Started
+
+### Run Locally
+
+To run the Golestan Tea website on your local machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/leilasharifidev/Golestan-Tea.git]
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Golestan-Tea
+   ```
+
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local development URL shown in your terminal to explore the website.
+
+## 📁 Project Structure
+
+The project is organized into reusable React components and styling files. The exact structure may vary depending on the implementation.
+
+```text
+golestan-tea/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
+├── index.html
+├── package.json
+└── README.md
+```
+
+## 🎯 Project Goals
+
+- Practice building user interfaces with React
+- Improve component reusability and code organization
+- Apply responsive design principles
+- Gain practical experience with Tailwind CSS and custom CSS
+- Develop a portfolio project for frontend development
+
+## 👩🏻‍💻 Developer
+
+**Leila Sharifi** — Frontend Developer
+
+- 🌐 **Personal Website:** [leilasharifi.com](https://leilasharifi.com)
+- 💻 **GitHub:** [@leilasharifidev](https://github.com/leilasharifidev)
+- 📸 **Instagram:** ([https://www.instagram.com/leilasharifidev?psln=Z25icW9rc25tMzE0]
+
+---
+
+_This project was developed for educational and portfolio purposes. It is not an official website of Golestan Tea._
